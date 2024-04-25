@@ -583,12 +583,8 @@ body {
         .savep{
             align-items: baseline;
         }
-        .save h2{
-            font-size: 9px;
-            margin-bottom: 10px;
-        }
         .save p {
-            font-size: 6px;
+            font-size: 22px;
         }
         .save-title p {
             font-size: 20px;
@@ -688,9 +684,9 @@ body {
         width: 29vw;
         height: 20vh;
 }
-.ideasbody p {
-    font-size: 19px;
-}
+    .ideasbody p {
+        font-size: 16px;
+    }
         .seeall p {
         font-size: 20px;
     }
