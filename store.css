@@ -576,6 +576,22 @@ body {
 
 
     @media screen and (max-width: 1440px){
+        .savep{
+            align-items: baseline;
+        }
+        .save h2{
+            font-size: 9px;
+            margin-bottom: 10px;
+        }
+        .save p {
+            font-size: 6px;
+        }
+        .save-title p {
+            font-size: 20px;
+        }
+        .ideasbody p {
+            font-size: 10px;
+        }
         .item1 {
             margin-right: 18px;
             background-color: white;
@@ -588,6 +604,10 @@ body {
 .seeall p{
     font-size: 15px;
 }
+        .never{
+            height: 35vh;
+            margin-top: 20px;
+        }
 }
 
 @media screen and (max-width: 1024px){
@@ -602,8 +622,11 @@ body {
 }
 .seebody img{
  width: 29vw;
- height: 8vh;
+ height: 19vh;
 }
+        .seeall p {
+        font-size: 9px;
+    }
 .seebody a:hover {
     transition: 1s;
    }
@@ -614,7 +637,7 @@ body {
     font-size: 21px;
 }
 .never{
-    height: 22vh;
+    height: 42vh;
 }
 }
     
@@ -635,13 +658,16 @@ body {
     }
     .seebody img {
         width: 29vw;
-        height: 6vh;
+        height: 20vh;
 }
 .ideasbody p {
-    font-size: 7px;
+    font-size: 5px;
 }
+        .seeall p {
+        font-size: 6px;
+    }
 .never {
-    height: 20vh;
+    height: 43vh;
 
 }
 }
