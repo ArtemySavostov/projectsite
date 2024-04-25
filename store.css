@@ -576,6 +576,10 @@ body {
 
 
     @media screen and (max-width: 1440px){
+            .ideasbody p {
+        font-size: 23px;
+    }
+        
         .savep{
             align-items: baseline;
         }
@@ -602,8 +606,14 @@ body {
             height: 765px;
         }
 .seeall p{
-    font-size: 15px;
+    font-size: 24px;
 }
+            .save h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+                font-size: 21px;
+    }
         .never{
             height: 35vh;
             margin-top: 20px;
@@ -613,6 +623,16 @@ body {
 @media screen and (max-width: 1024px){
     .main-inner-left h1{
         font-size: 42px;
+    }
+        .seeall p {
+        font-size: 18px;
+    }
+        .save h2 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+        .save p {
+        font-size: 13px;
     }
     .main-inner-right img {
         margin-right : -40px;
@@ -653,6 +673,14 @@ body {
         margin-bottom: 28px;
         width: 100vw;
     }
+        .save h2 {
+        font-size: 23px;
+        margin-bottom: 10px;
+    }
+        .save p {
+        font-size: 20px;
+    }
+
     .section1 {
         margin: 0 -62px 0 0;
     }
@@ -661,10 +689,10 @@ body {
         height: 20vh;
 }
 .ideasbody p {
-    font-size: 5px;
+    font-size: 19px;
 }
         .seeall p {
-        font-size: 6px;
+        font-size: 20px;
     }
 .never {
     height: 43vh;
